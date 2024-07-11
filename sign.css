@@ -1,0 +1,70 @@
+#form{
+    margin:auto;
+    width:450px;
+    background-color: white;
+    height:470px;
+    
+}
+.forget{
+    margin-left:150px;
+}
+input{
+    border:1px solid black rgba(0,0,0,0.7);
+    text-transform:capitalize;
+    
+    height:30px;
+    width:346px;
+}
+.aa{color:black;
+    text-align: center;
+    padding-left:50px;
+    padding-top: 20px;
+    text-decoration: none;
+    font-size:17px;
+
+}
+h3{font-size: 30px;
+    text-align: center;
+    padding-top:5px;
+}
+#sub a{
+    font-size: 17px;
+    font-weight: bold;
+    text-transform: capitalize;
+    text-decoration: none;
+    color:black;
+}
+#sub{
+    margin-top: 20px;
+}
+.submit:hover{
+    background-color: white;
+    color:black;
+}
+.submit{
+    width:100px;
+    height:30px;
+    padding:5px;
+    color: white;
+    background-color: black;
+    border:none;
+}
+body{
+    background-image: url('./pexels-anni-roenkae-2156881.jpg');
+}
+#form div label{
+    
+
+    padding-left:0px;
+    margin-top: 10px;
+    font-size: 30px;;
+    
+}
+#form div {
+    padding-left:50px;
+
+}
+.lab2,.lab3,.lab4{
+    margin-top:10px;
+    color:red;
+}
